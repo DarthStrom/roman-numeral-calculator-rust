@@ -1,0 +1,6 @@
+[package]
+name = "roman_numeral_calculator"
+version = "0.1.0"
+authors = ["Jason Duffy <jasonsduffy@gmail.com>"]
+
+[dependencies]
